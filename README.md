@@ -3,7 +3,7 @@
 
 
 ###Folder Structure###
-	1. **backend**
-	2. **doc** Documentation
-	3. **frontend**
-	4. **scripts** Scipts to control GPIOs
+ **backend**
+ **doc** Documentation
+ **frontend**
+ **scripts** Scipts to control GPIOs
